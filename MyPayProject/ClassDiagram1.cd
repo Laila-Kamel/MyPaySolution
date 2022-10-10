@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="MyPayProject.PayRecord">
+    <Position X="6.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABCAAAAAAAgACAIAABAAAAEAAAAAAEAAAAAAQAAAAA=</HashCode>
+      <FileName>PayRecord.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyPayProject.ResidentPayRecord">
+    <Position X="4.75" Y="4.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAA=</HashCode>
+      <FileName>ResidentPayRecord.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyPayProject.WorkingHolidayPayRecord">
+    <Position X="9.5" Y="4.25" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgAAAAAAAAAAAAAAAAQAEBAEAAAQAAAAA=</HashCode>
+      <FileName>WorkingHolidayPayRecord.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyPayProject.CsvImporter">
+    <Position X="4.25" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAIAAAgAAAAAAAAAAAA=</HashCode>
+      <FileName>CsvImporter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyPayProject.TaxCalculator">
+    <Position X="6.75" Y="6.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAEA=</HashCode>
+      <FileName>TaxCalculator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyPayProject.PayRecordWriter">
+    <Position X="10.25" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAA=</HashCode>
+      <FileName>PayRecordWriter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
